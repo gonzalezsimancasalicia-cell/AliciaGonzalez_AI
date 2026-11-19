@@ -247,7 +247,7 @@ python -m pip install -r requirements.txt
 
 **Parte B · simula a un compañero**
 
-1. Sal a la carpeta de arriba y crea `proyecto-colega`: `cd .. && mkdir proyecto-colega && cd proyecto-colega`.
+1. Sal a la carpeta de arriba y crea `pyth`.
 2. Crea y activa un entorno nuevo.
 3. Instala con el fichero del ejercicio anterior: `python -m pip install -r ../proyecto-demo/requirements.txt`.
 4. Comprueba que los dos entornos son idénticos:
